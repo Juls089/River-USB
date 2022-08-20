@@ -13,8 +13,8 @@ https://river-usb.nl
  <strong>River-USB</strong> is the solution to use a wired device wirelessly!
 River-USB routes the USB device data from the River-USB port to the River-USB hub via a 5G connection for the fastest speed.
 
-*River-USB small has 2 ports
-*River-USB big has 4 ports
+* River-USB small has 2 ports
+* River-USB big has 4 ports
 
 RiverUSB must be constantly connected to a power source (USB-C)
 but can be up to 10m further away from the hub and still work without problems.
