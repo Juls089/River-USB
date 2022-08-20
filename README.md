@@ -34,3 +34,8 @@ but can be up to 10m further away from the hub and still work without problems.
 - [ ] Windows compatibility 
 - [ ] MacOS compatibility 
 - [ ] Linux compatibility 
+
+# GitHub repositories
+
+https://github.com/lcgamboa/USBIP-Virtual-USB-Device
+https://github.com/raknahs2/Python_USB_HID
